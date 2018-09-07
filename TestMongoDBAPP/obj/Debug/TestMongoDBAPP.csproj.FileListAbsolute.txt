@@ -1,0 +1,13 @@
+C:\Binay_C_Drive\Practice\MongoDB Applications\TestMongoDBAPP\TestMongoDBAPP\bin\Debug\TestMongoDBAPP.exe.config
+C:\Binay_C_Drive\Practice\MongoDB Applications\TestMongoDBAPP\TestMongoDBAPP\obj\Debug\TestMongoDBAPP.csprojResolveAssemblyReference.cache
+C:\Binay_C_Drive\Practice\MongoDB Applications\TestMongoDBAPP\TestMongoDBAPP\bin\Debug\TestMongoDBAPP.exe
+C:\Binay_C_Drive\Practice\MongoDB Applications\TestMongoDBAPP\TestMongoDBAPP\bin\Debug\TestMongoDBAPP.pdb
+C:\Binay_C_Drive\Practice\MongoDB Applications\TestMongoDBAPP\TestMongoDBAPP\bin\Debug\MongoDB.Bson.dll
+C:\Binay_C_Drive\Practice\MongoDB Applications\TestMongoDBAPP\TestMongoDBAPP\bin\Debug\MongoDB.Driver.Core.dll
+C:\Binay_C_Drive\Practice\MongoDB Applications\TestMongoDBAPP\TestMongoDBAPP\bin\Debug\MongoDB.Driver.dll
+C:\Binay_C_Drive\Practice\MongoDB Applications\TestMongoDBAPP\TestMongoDBAPP\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Binay_C_Drive\Practice\MongoDB Applications\TestMongoDBAPP\TestMongoDBAPP\bin\Debug\MongoDB.Bson.xml
+C:\Binay_C_Drive\Practice\MongoDB Applications\TestMongoDBAPP\TestMongoDBAPP\bin\Debug\MongoDB.Driver.xml
+C:\Binay_C_Drive\Practice\MongoDB Applications\TestMongoDBAPP\TestMongoDBAPP\bin\Debug\MongoDB.Driver.Core.xml
+C:\Binay_C_Drive\Practice\MongoDB Applications\TestMongoDBAPP\TestMongoDBAPP\obj\Debug\TestMongoDBAPP.exe
+C:\Binay_C_Drive\Practice\MongoDB Applications\TestMongoDBAPP\TestMongoDBAPP\obj\Debug\TestMongoDBAPP.pdb
